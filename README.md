@@ -2,4 +2,4 @@
 
 simple TIC-TAC-TOE game built using ReactJS.
 
-DEMO LINK- bit.ly/kartikag1
+DEMO LINK- https://dazzling-shockley-f529d8.netlify.app/
